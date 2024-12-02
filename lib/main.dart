@@ -47,6 +47,10 @@ class _GroupChatScreenState extends State<GroupChatScreen> {
     {'text': 'What’s new?', 'sender': 'other'},
     {'text': 'Nothing much!', 'sender': 'user'},
     {'text': 'Alright, cool!', 'sender': 'other'},
+    {'text': 'I am good too.', 'sender': 'user'},
+    {'text': 'What’s new?', 'sender': 'other'},
+    {'text': 'Nothing much!', 'sender': 'user'},
+    {'text': 'Alright, cool!', 'sender': 'other'},
   ];
 
   final ScrollController _scrollController = ScrollController();
